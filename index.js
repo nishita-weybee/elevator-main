@@ -1,5 +1,5 @@
-// const numOfElevator = prompt('Enter the number of elevator');
-// const numOfFloor = prompt('Enter the number of floor');
+const numOfElevator = prompt('Enter the number of elevator');
+const numOfFloor = prompt('Enter the number of floor');
 
 const elevator = 3;
 const floor = 5;
