@@ -1,8 +1,8 @@
 const numOfElevator = prompt('Enter the number of elevator');
 const numOfFloor = prompt('Enter the number of floor');
 
-const elevator = 3;
-const floor = 5;
+const elevator = numOfElevator;
+const floor = numOfFloor;
 const height = 100;
 const width = 150;
 
